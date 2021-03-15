@@ -113,7 +113,7 @@
 45. Eye Semantic Segmentation with a Lightweight Model [ICCVW 2019]( https://arxiv.org/pdf/1911.01049.pdf)  [code](https://github.com/th2l/Eye_VR_Segmentation) *Chonnam National University*
 46. FDDWNet: A Lightweight Convolutional Neural Network for Real-time Sementic Segmentation [ICASSP2020](https://arxiv.org/pdf/1911.00632.pdf)   *Nanjing University of Posts & Telecommunications*
 47. Real-Time Semantic Segmentation via Multiply Spatial Fusion Network [arxiv2019](https://arxiv.org/pdf/1911.07217.pdf)  *Beihang University &&Megvii Technology&&Peng Cheng Laboratory*
-48. RGPNet: A Real-Time General Purpose Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1912.01394.pdf)  *Advanced Research Lab, NavInfo Europe*
+48. RGPNet: A Real-Time General Purpose Semantic Segmentation [WACV2021](https://arxiv.org/pdf/1912.01394.pdf)  *Advanced Research Lab, NavInfo Europe*
 49. LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation [DICTA2019](https://arxiv.org/pdf/1912.06683.pdf)
 50. FasterSeg: Searching for Faster Real-time Semantic Segmentation [ICIR2020](https://openreview.net/pdf?id=BJgqQ6NYvB) [FasterSeg](https://github.com/TAMU-VITA/FasterSeg) *Texas A&M University && Horizon Robotics Inc*
 51. Real-time Segmentation and Facial Skin Tones Grading [arxiv2019](https://arxiv.org/pdf/1912.12888.pdf) [HLRNet](https://github.com/JACKYLUO1991/Face-skin-hair-segmentaiton-and-skin-color-evaluation)
@@ -121,7 +121,7 @@
 53. FarSee-Net: Real-Time Semantic Segmentation by Efficient Multi-scale Context Aggregation and Feature Space Super-resolution [ICRA2020](https://128.84.21.199/pdf/2003.03913.pdf) *SenseTime && Tokyo University*
 54.   Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks [CVPR2020](https://128.84.21.199/pdf/2003.05128.pdf) [HANet](https://github.com/shachoi/HANet)  *Korea University && CA*
 55. Real-Time High-Performance Semantic Image Segmentation of Urban Street Scenes [IEEE Transactions on Intelligent Transportation Systems, 2020](https://arxiv.org/pdf/2003.08736.pdf) *XMU*
-56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [arxiv2020](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
+56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [IJCV2021](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
 57. BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2004.02147.pdf) [BiSeNet V2](https://github.com/ycszen/BiSeNet) [bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) *HUST && The University of Adelaide &&CUHK && Tencent*
 58. Bi-direction Context Propagation Network for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2005.11034.pdf) *Hefei University of Technology*
 59. LRNNet: A Light-Weighted Network with Efficient Reduced Non-Local Operation for Real-Time Semantic Segmentation [ICMEW2020](https://arxiv.org/pdf/2006.02706v1.pdf)  *SJTU*
